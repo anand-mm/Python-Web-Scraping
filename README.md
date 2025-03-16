@@ -12,9 +12,3 @@ This project is a **web scraper** that extracts **Samsung mobile phone details**
 - **Selenium** (for browser automation)  
 - **BeautifulSoup** (for HTML parsing)  
 - **Pandas** (for data storage)  
-
-## Installation ⚙  
-1. **Clone this repository:**  
-   ```sh
-   git clone https://github.com/your-username/flipkart-scraper.git
-   cd flipkart-scraper
